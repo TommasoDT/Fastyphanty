@@ -1,4 +1,6 @@
-# Unity-PCTO
+# Fastyphanty
+Website: https://sites.google.com/view/fastyphanty
+
 # IT:
 Un gioco fatto con Unity per il PCTO
 I controlli sono le freccie sinistra e destra ('A' e 'D' non sono assegnati).
